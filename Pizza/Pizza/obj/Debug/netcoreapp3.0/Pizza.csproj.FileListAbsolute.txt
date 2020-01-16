@@ -1,0 +1,11 @@
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/bin/Debug/netcoreapp3.0/Pizza
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/bin/Debug/netcoreapp3.0/Pizza.deps.json
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/bin/Debug/netcoreapp3.0/Pizza.runtimeconfig.json
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/bin/Debug/netcoreapp3.0/Pizza.runtimeconfig.dev.json
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/bin/Debug/netcoreapp3.0/Pizza.dll
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/bin/Debug/netcoreapp3.0/Pizza.pdb
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/obj/Debug/netcoreapp3.0/Pizza.csprojAssemblyReference.cache
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/obj/Debug/netcoreapp3.0/Pizza.AssemblyInfoInputs.cache
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/obj/Debug/netcoreapp3.0/Pizza.AssemblyInfo.cs
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/obj/Debug/netcoreapp3.0/Pizza.dll
+/Users/Britta/Desktop/PizzaKiosk/Pizza/Pizza/obj/Debug/netcoreapp3.0/Pizza.pdb

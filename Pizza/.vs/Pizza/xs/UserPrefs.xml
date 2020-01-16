@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{76F4CE84-10A0-495D-AF35-8B3D73904C60}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pizza/Program.cs">
+    <Files>
+      <File FileName="Pizza/Program.cs" Line="47" Column="54" />
+      <File FileName="Pizza/Article.cs" />
+      <File FileName="Pizza/Ingredients.cs" />
+      <File FileName="Pizza/Item.cs" />
+      <File FileName="Pizza/ShoppingCart.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pizza" expanded="True">
+            <Node name="Pizza" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pizza PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
